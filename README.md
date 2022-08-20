@@ -28,6 +28,6 @@
  	<a href="https://www.linkedin.com/in/daniele-miron-44a84a92/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://medium.com/@daniele.miron" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/daniele-miron/daniele-miron/blob/output/github-contribution-grid-snake.svg)
  
 </div>
